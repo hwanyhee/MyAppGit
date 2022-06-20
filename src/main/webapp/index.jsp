@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>타이틀 변경</title>
 </head>
 <body>
 	<h1>첫번째 제목</h1>
